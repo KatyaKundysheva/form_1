@@ -33,8 +33,8 @@ name="group" value=" ">Покушать<br>
 <option> Лежу </option>
 <option> Кушаю </option>
   </select></p> <br>
+  <br.
 <input type="submit"
 value="Отправить">
   <form action="katyurku@gmail.com" method="post"></form>
-</body>
-</html>
+
