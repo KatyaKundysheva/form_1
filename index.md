@@ -11,6 +11,7 @@ name="name" size=30><br>
 e-mail: <br>
 <input type="text"
 name="e-mail" size=30><br>
+  </form>
 Как дела? <br>
 <input type="radio"
 name="group" value=" ">отлично <br>
@@ -40,6 +41,6 @@ rows=4 cols=30>
 value="Отправить">
 <input type="reset"
 value="Очистить">
-</form>
+
 </body>
 </html>
