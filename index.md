@@ -25,13 +25,13 @@ name="group" value=" ">Погулять<br>
 name="group" value=" ">Поспать<br>
 <input type="checkbox"
 name="group" value=" ">Покушать<br>
-<select name="browsers">
+<p><select name="browsers">
 <option selected>
 Выбрать
 <option> Слушаю музыку </option>
 <option> Лежу </option>
 <option> Кушаю </option>
-</select> <br>
+  </select></p> <br>
 Чем бы вы сейчас хотели заняться?<br>
 <textarea name="resume"
 rows=4 cols=30>
