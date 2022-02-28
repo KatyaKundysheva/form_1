@@ -41,5 +41,6 @@ rows=4 cols=30>
 value="Отправить">
 <input type="reset"
 value="Очистить">
+  <form action="katyurku@gmail.com" method="post"></form>
 </body>
 </html>
