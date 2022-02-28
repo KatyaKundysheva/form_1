@@ -33,14 +33,13 @@ name="group" value=" ">Покушать<br>
 <option> Лежу </option>
 <option> Кушаю </option>
   </select></p> <br>
-<p>Чем бы вы сейчас хотели заняться?<br>
+  <p>Чем бы вы сейчас хотели заняться?</p><br>
 <textarea name="resume"
 rows=4 cols=30>
 </textarea><br>
 <input type="submit"
 value="Отправить">
 <input type="reset"
-       value="Очистить"> </p>
-
+value="Очистить">
 </body>
 </html>
