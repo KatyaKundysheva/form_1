@@ -30,11 +30,9 @@ name="group" value=" ">Покушать<br>
 Выбрать
 <option> Слушаю музыку
 <option> Лежу
-<option> Кушаю
-</select> <br>
+<option> Кушаю </select> <br>
 Чем бы вы сейчас хотели заняться?<br>
-<textarea name="resume"
-rows=4 cols=30>
+<textarea name="resume" rows=4 cols=30>
 </textarea><br>
 <input type="submit"
 value="Отправить">
