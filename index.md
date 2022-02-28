@@ -11,7 +11,6 @@ name="name" size=30><br>
 e-mail: <br>
 <input type="text"
 name="e-mail" size=30><br>
-  </form>
 Как дела? <br>
 <input type="radio"
 name="group" value=" ">отлично <br>
@@ -32,9 +31,9 @@ name="group" value=" ">Покушать<br>
 <option> Слушаю музыку </option>
 <option> Лежу </option>
 <option> Кушаю </option>
-  </select></p> <br>
-  <br.
+ </select></p> <br>
+ <br>
 <input type="submit"
 value="Отправить">
-  <form action="katyurku@gmail.com" method="post"></form>
+</form>
 
