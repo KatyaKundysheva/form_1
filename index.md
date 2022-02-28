@@ -28,11 +28,13 @@ name="group" value=" ">Покушать<br>
 <select name="browsers">
 <option selected>
 Выбрать
-<option> Слушаю музыку
-<option> Лежу
-<option> Кушаю </select> <br>
+<option> Слушаю музыку </option>
+<option> Лежу </option>
+<option> Кушаю </option>
+</select> <br>
 Чем бы вы сейчас хотели заняться?<br>
-<textarea name="resume" rows="4" cols="30">
+<textarea name="resume"
+rows=4 cols=30>
 </textarea><br>
 <input type="submit"
 value="Отправить">
