@@ -35,8 +35,6 @@ name="group" value=" ">Покушать<br>
   </select></p> <br>
 <input type="submit"
 value="Отправить">
-<input type="reset"
-value="Очистить">
   <form action="katyurku@gmail.com" method="post"></form>
 </body>
 </html>
